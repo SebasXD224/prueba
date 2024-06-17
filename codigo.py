@@ -1,4 +1,4 @@
-nombre = "XD"
+nombre = "Sebitas"
 apellido = "DX"
 
 saludo = f'Hola {nombre} {apellido} como estas? XDD'
